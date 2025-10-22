@@ -20,7 +20,7 @@
         "magento/module-inventory-catalog": "*",
         "magento/module-inventory-catalog-api": "*",
         "magento/module-inventory-sales-api": "*",
-        "lupasearch/magento2-lupasearch-plugin": "^1.0.0"
+        "lupasearch/magento2-lupasearch-plugin": "dev-public-query"
     },
     "require-dev": {
         "phpunit/phpunit": "^9",
